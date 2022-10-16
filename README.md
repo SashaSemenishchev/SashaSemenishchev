@@ -1,4 +1,4 @@
-# Hi👋, My name is Alexander
+# Hi👋, My name is Oleksandr
 (or Sasha for shortned) 
 ## I'm middle Java developer
 I know:
